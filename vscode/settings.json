@@ -1,0 +1,211 @@
+{
+  "tabnine.experimentalAutoImports": true,
+  "oneDarkPro.color": {
+    "chalky": "",
+    "coral": "",
+    "dark": "",
+    "error": "",
+    "fountainBlue": "",
+    "green": "",
+    "invalid": "",
+    "lightDark": "",
+    "lightWhite": "",
+    "malibu": "",
+    "purple": "",
+    "whiskey": "",
+    "deepRed": ""
+  },
+  "liveServer.settings.host": "192.168.1.24",
+  "liveServer.settings.port": 2755,
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false,
+    "yaml": false,
+    "javascript": false
+  },
+  "liveSassCompile.settings.autoprefix": [],
+
+
+  "json.schemas": [],
+  "workbench.iconTheme": "material-icon-theme",
+  "livePreview.portNumber": 3002,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "codetogether.userName": "Megumin",
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "workbench.colorTheme": "One Dark Pro",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "aws.telemetry": false,
+  "workbench.colorCustomizations": {
+    "editorBracketHighlight.foreground1": "#ffdb11",
+    "editorBracketHighlight.foreground2": "#2bb426",
+    "editorBracketHighlight.foreground3": "#297fe0",
+    "editorInlayHint.parameterBackground": "#363C46",
+    "editorInlayHint.parameterForeground": "#ABB2BF",
+    "editorInlayHint.typeBackground": "#282c3400",
+    "editorInlayHint.typeForeground": "#888888"
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": [
+          "variable.other.readwrite",
+          "support.function.js",
+          "support.function.jsx",
+          "variable.other.readwrite.ts",
+          "support.function.ts",
+          "support.function.tsx",
+          "entity.name.function.tsx",
+          "entity.name.function.member"
+        ],
+        "settings": {
+          "foreground": "#61AFEF",
+          "fontStyle": ""
+        }
+      },
+      {
+        "scope": [
+          "variable.other.constant.object.js",
+          "keyword.operator.arithmetic.js",
+          "keyword.operator.assignment.js",
+          "keyword.operator.logical.js",
+          "keyword.operator.ternary.js",
+          "keyword.operator.comparison.js",
+          "keyword.operator.relational.js",
+          "variable.other.constant.object.ts",
+          "keyword.operator.arithmetic.ts",
+          "keyword.operator.assignment.ts",
+          "keyword.operator.logical.ts",
+          "keyword.operator.ternary.ts",
+          "keyword.operator.comparison.ts",
+          "keyword.operator.relational.ts",
+          "variable.other.constant.object.tsx",
+          "keyword.operator.arithmetic.tsx",
+          "keyword.operator.assignment.tsx",
+          "keyword.operator.logical.tsx",
+          "keyword.operator.ternary.tsx",
+          "keyword.operator.comparison.tsx",
+          "keyword.operator.relational.tsx"
+        ],
+        "settings": {
+          "foreground": "#ABB2BF",
+          "fontStyle": ""
+        }
+      },
+      {
+        "scope": [
+          "support.class.component.open.jsx",
+          "support.class.component.close.jsx",
+          "support.class.component.open.tsx",
+          "support.class.component.close.tsx",
+          "support.class.component.tsx"
+        ],
+        "settings": {
+          "foreground": "#2dbda5",
+          "fontStyle": ""
+        }
+      },
+      {
+        "scope": [
+          "variable.parameter",
+          "variable.parameter.ts",
+          "variable.parameter.tsx"
+        ],
+        "settings": {
+          "foreground": "#ecb87bd2",
+          "fontStyle": ""
+        }
+      },
+      {
+        "scope": [
+          "support.type.object.dom.js",
+          "meta.method-call.with-arguments.js",
+          "support.type.object.dom.ts",
+          "meta.method-call.with-arguments.ts",
+          "support.type.object.dom.tsx",
+          "meta.method-call.with-arguments.tsx"
+        ],
+        "settings": {
+          "foreground": "#ec7b7bd2",
+          "fontStyle": ""
+        }
+      },
+      {
+        "scope": ["keyword.operator.assignment.jsx"],
+        "settings": {
+          "foreground": "#74cc63d2",
+          "fontStyle": ""
+        }
+      },
+      {
+        "scope": [
+          "entity.other.attribute-name.jsx",
+          "entity.other.attribute-name.tsx"
+        ],
+        "settings": {
+          "foreground": "#ecb87bd2",
+          "fontStyle": ""
+        }
+      },
+      {
+        "scope": [
+          "meta.brace.curly.js",
+          "meta.brace.curly.jsx",
+          "meta.brace.curly.ts",
+          "meta.brace.curly.tsx"
+        ],
+        "settings": {
+          "foreground": "#fff243",
+          "fontStyle": ""
+        }
+      }
+    ]
+  },
+
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 13.2,
+  "editor.lineHeight": 1.6,
+  "editor.inlayHints.fontSize": 12.8,
+  "editor.fontWeight": 300,
+  "editor.fontLigatures": true,
+  "inline-parameters.fontStyle": "normal",
+  "inline-parameters.enabled": true,
+  "editor.inlayHints.fontFamily": "JetBrains Mono",
+  "editor.inlayHints.padding": true,
+  "javascript.inlayHints.parameterNames.enabled": "all",
+  "inline-parameters.borderRadius": "0",
+  "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "editor.formatOnSave": true,
+  "terminal.integrated.env.windows": {},
+  "cSpell.userWords": [
+    "autoprefix",
+    "codetogether",
+    "donot",
+    "esbenp",
+    "intelisense",
+    "Megumin",
+    "readwrite",
+    "reduxjs",
+    "tabnine"
+  ],
+  "editor.inlineSuggest.enabled": true,
+  "editor.minimap.size": "fill",
+  "chatgpt.lang": "en",
+  "chatgpt.temperature": 0.5,
+  "tailwindCSS.colorDecorators": false,
+  "terminal.integrated.fontFamily": "Fira Code",
+  "typescript.inlayHints.enumMemberValues.enabled": false,
+  "javascript.inlayHints.parameterTypes.enabled": true,
+  "typescript.inlayHints.parameterNames.enabled": "all",
+  "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "typescript.inlayHints.parameterTypes.enabled": true,
+  "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+  "typescript.inlayHints.variableTypes.enabled": true,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 160,
+  "stylelint.enable": false
+}
