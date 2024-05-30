@@ -78,6 +78,13 @@ COPY vscode/settings.json /home/kasm-default-profile/.config/Code/User/settings.
 COPY vscode/extensions.txt /tmp/extensions.txt
 RUN cat /tmp/extensions.txt | xargs -L 1 code --install-extension
 
+# Better errors then above command.
+#RUN set -e && \
+#    cat /tmp/extensions.txt | while read extension || [ -n "$extension" ]; do \
+#        code --install-extension "$extension" || echo "Failed to install $extension"; \
+#    done
+
+
 ## Copy disabled extensions list
 #COPY vscode/disabled_extensions.txt /tmp/disabled_extensions.txt
 #
